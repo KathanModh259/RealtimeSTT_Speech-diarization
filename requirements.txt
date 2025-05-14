@@ -1,0 +1,6 @@
+sounddevice
+numpy
+scipy
+faster-whisper
+resemblyzer
+torch  # Required by resemblyzer
